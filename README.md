@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![Site Preview](assets_readme/hero.png)](https://EditKaro.in-v1.netlify.app/)
+[![Site Preview](assets_readme/hero.png)](https://EditKaro-v1.netlify.app/)
 
 *Click the badge above to visit the live site ↑*
 
