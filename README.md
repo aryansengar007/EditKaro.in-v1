@@ -19,7 +19,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-editkaro.in-6C63FF?style=for-the-badge&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/🧑‍💻%20Portfolio-aryan--sengar-A78BFA?style=for-the-badge)](https://aryan-sengar-portfolio-v2.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🧑‍💻%20Portfolio-aryan--sengar-A78BFA?style=for-the-badge)](https://editkaro-v1.netlify.app/)
 
 <br/>
 
