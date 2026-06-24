@@ -4,7 +4,7 @@
 <!--                   ANIMATED WAVE HEADER                         -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,40:3B82F6,80:A78BFA,100:6C63FF&height=220&section=header&text=EditKaro.in&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Crafting%20Viral%20Stories%20Through%20Video%20%E2%80%94%20React%20%7C%20Three.js%20%7C%20GSAP%20%7C%20Framer%20Motion&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,40:3B82F6,80:A78BFA,100:6C63FF&height=220&section=header&text=EditKaro.in-v1&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Crafting%20Viral%20Stories%20Through%20Video%20%E2%80%94%20React%20%7C%20Three.js%20%7C%20GSAP%20%7C%20Framer%20Motion&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                  ANIMATED TYPING TAGLINE                       -->
@@ -19,7 +19,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-editkaro.in-6C63FF?style=for-the-badge&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/🧑‍💻%20Portfolio-aryan--sengar-A78BFA?style=for-the-badge)](https://editkaro-v1.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🧑‍💻%20Portfolio-aryan--sengar-A78BFA?style=for-the-badge)](https://aryan-sengar-portfolio-v2.netlify.app/)
 
 <br/>
 
